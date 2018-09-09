@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Football Match Scheduler Ver.3</string>
+    <string name="last_match">Last Match</string>
+    <string name="favorite">Favorite</string>
+    <string name="home_badge">Home Badge</string>
+    <string name="vs">VS</string>
+    <string name="away_badge">Away Badge</string>
+    <string name="shots">Shooting</string>
+    <string name="goaler">Goaler</string>
+    <string name="goalkeeper">Goal Keeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="substitutes">Substitute</string>
+
+
+    <string name="empty_data">Empty Data</string>
+    <string name="past_match">Past Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="english_pemier_league">English Premier League</string>
+    <string name="english_league_championship">English League Championship</string>
+    <string name="german_bundes_liga">German Bundesliga</string>
+    <string name="italian_serie_A">Italian Serie A</string>
+    <string name="french_ligue_1">French Ligue 1</string>
+    <string name="spanish_la_liga">Spanish La Liga</string>
+    <string name="match_english_pemier_league">4328</string>
+    <string name="match_english_league_championship">4329</string>
+    <string name="match_german_bundes_liga">4331</string>
+    <string name="match_italian_serie_A">4332</string>
+    <string name="match_french_ligue_1">4334</string>
+    <string name="match_spanish_la_liga">4335</string>
+    <string name="empty_parameter">empty_parameter</string>
+    <string name="pastMatch">Past Match</string>
+    <string name="nextMatch">Next Match</string>
+    <string name="favorites">Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
